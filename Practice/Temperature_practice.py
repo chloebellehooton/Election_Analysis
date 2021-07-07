@@ -4,5 +4,3 @@ if temperature > 80:
 else: 
     print("Open the windows.")
 
-for county in counties:
-    print(county)
